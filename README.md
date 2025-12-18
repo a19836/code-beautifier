@@ -1,7 +1,7 @@
 # My Code Beautifier
 
 > Original Repos:   
-> - My Code Beautifier: https://github.com/a19836/mycodebeautifier/   
+> - My Code Beautifier: https://github.com/a19836/code-beautifier/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
